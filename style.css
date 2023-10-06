@@ -128,6 +128,11 @@ body{
         width: 100%;
     }
 }
+@media (max-width: 500px) {
+    #section_2 p{
+        font-weight: 700;
+    }
+}
 #section_3{
     background-color: lightblue;
     display: flex;
